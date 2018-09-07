@@ -1,0 +1,53 @@
+body {
+	padding-top: 70px;
+	background-image: url("./../../img/MID.png");
+	background-size: cover;
+}
+
+.moi{
+	margin: 0px auto;
+	width: 80%;
+	height: 50%;
+}
+
+.head{
+	text-align: center;
+}
+
+.head, label{
+	text-transform: uppercase;
+}
+
+label{
+	color: #fff;
+	text-align: center;
+}
+
+input[type="text"]{
+	background-color: rgba(000, 000, 000, 0.1);
+	color: #fff;
+}
+
+#tall{
+	width: 100%;
+}
+
+select{
+	background-color: rgba(000, 000, 000, 0.1);
+	color: #fff;
+	width: 12.1%;
+}
+
+h1, h3, h4, p, marquee{
+	color: #fff;
+	text-transform: uppercase;
+
+}
+
+small{
+	color: #FF0000;
+}
+
+.btn-contain, footer{
+	margin: 10px 0px;
+}
